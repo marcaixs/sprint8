@@ -1,0 +1,15 @@
+{
+    "BalançTotal": "Balance total",
+    "DespesesSetmana": "Gastos",
+    "RespecteAhir": "respecto a ayer",
+    "DespesesAvui": "Gastos de hoy",
+    "days": {
+        "Monday": "Lunes",
+        "Tuesday": "Martes",
+        "Wednesday": "Miércoles",
+        "Thursday": "Jueves",
+        "Friday": "Viernes",
+        "Saturday": "Sábado",
+        "Sunday": "Domingo"
+    }
+}
